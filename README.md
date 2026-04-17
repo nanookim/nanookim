@@ -1,20 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,30,5,20&height=250&section=header&text=NANOOKIM%20WORKSPACE&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" width="100%"/>
+<img src="github-header-banner.png" width="100%"/>
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Full-Stack+Architect;Laravel+&amp;+Yii2+Expert;Flutter+Specialist;Building+the+Future" />
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Full-Stack+Architect;Laravel+%26+Yii2+Expert;Flutter+Specialist;Building+Enterprise+Apps" />
 
 <br/>
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" align="center">
   <tr>
     <td width="50%" align="right">
       <img src="https://github-readme-stats.vercel.app/api?username=nanookim&show_icons=true&theme=tokyonight&hide_border=true&title_color=79dafa&text_color=a9b1d6&icon_color=bb9af7" height="170"/>
@@ -27,17 +21,46 @@
 
 <br/>
 
-<h3><p align="center">─── ⚡ TECH ECOSYSTEM ⚡ ───</p></h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,yii,go,flutter,dart,vue,nuxt,mysql,postgres,git,docker,linux&theme=dark" />
-</p>
+<h3><kbd> 🐍 CONTRIBUTION_SNAKE_GAME </kbd></h3>
+<p><i>Ular ini akan memakan riwayat kontribusimu setiap hari secara otomatis.</i></p>
+<img src="https://raw.githubusercontent.com/nanookim/nanookim/output/github-contribution-grid-snake.svg" width="100%" />
 
-<br/>
+<br/><br/>
 
-<h3><p align="center">─── 📂 NEURAL NETWORK ACTIVITY ───</p></h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nanookim/nanookim/output/github-contribution-grid-snake.svg" width="90%" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br/><br/>
+
+<h3><kbd> 💻 TECHNICAL_CORE_EXHIBIT </kbd></h3>
+
+<table border="0" align="center" width="100%">
+  <tr>
+    <td align="left" width="50%" valign="top">
+      <h4><img src="https://img.shields.io/badge/-Backend%20Expertise-FF2D20?style=flat-square&logo=laravel&logoColor=white" /></h4>
+      <p>Arsitektur server-side dengan framework PHP modern.</p>
+      <img src="https://skillicons.dev/icons?i=laravel,yii,php,mysql,postgres,sqlite,docker,linux&perline=4" />
+    </td>
+    <td align="left" width="50%" valign="top">
+      <h4><img src="https://img.shields.io/badge/-Mobile%20%26%20UI-02569B?style=flat-square&logo=flutter&logoColor=white" /></h4>
+      <p>Aplikasi mobile cross-platform dan interface modern.</p>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,vue,nuxt,inertia,tailwind,js,jquery&perline=4" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%" valign="top">
+      <br/>
+      <h4><img src="https://img.shields.io/badge/-DevOps%20%26%20Tools-333333?style=flat-square&logo=git&logoColor=white" /></h4>
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,pnpm,vscode,bash&perline=4" />
+    </td>
+    <td align="left" width="50%" valign="top">
+      <br/>
+      <h4><img src="https://img.shields.io/badge/-Currently%20Learning-BD93F9?style=flat-square&logo=go&logoColor=white" /></h4>
+      <img src="https://skillicons.dev/icons?i=go,mongodb,redis&perline=4" />
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
 
@@ -48,13 +71,6 @@
   <a href="https://youtube.com/@FaktaRaya">
     <img src="https://img.shields.io/badge/-YouTube-24283b?style=for-the-badge&logo=youtube&logoColor=ff0000" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-LinkedIn-24283b?style=for-the-badge&logo=linkedin&logoColor=0077b5" />
-  </a>
 </p>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </div>
